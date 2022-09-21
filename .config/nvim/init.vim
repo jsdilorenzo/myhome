@@ -20,3 +20,7 @@ map <SPACE> <leader>
 
 " Nerdtree mapping
 nnoremap <leader>n :NERDTreeToggle<CR>
+
+" Split mapping
+nnoremap <leader>h :split<CR>
+nnoremap <leader>v :vsplit<CR>
